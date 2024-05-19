@@ -1,5 +1,5 @@
 import os
-import imageio
+import imageio.v2 as imageio
 
 # Set the directory containing your image files
 input_folder = '/workspaces/Animator/Images'
