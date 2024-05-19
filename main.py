@@ -2,7 +2,7 @@ import os
 import imageio
 
 # Set the directory containing your image files
-input_folder = 'path/to/your/image/folder'
+input_folder = 'Animator/Images'
 
 # Set the output file name
 output_file = 'output_animation.gif'
