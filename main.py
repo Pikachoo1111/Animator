@@ -2,7 +2,7 @@ import os
 import imageio.v2 as imageio
 
 # Set the directory containing your image files
-input_folder = '/workspaces/Animator/Images'
+input_folder = '/workspaces/ClimateChangeR/Images'
 
 # Set the output file name
 output_file = 'output_animation.gif'
